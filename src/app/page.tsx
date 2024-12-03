@@ -48,7 +48,7 @@ export default function ModeToggle() {
         </h1>
         <div className="h-1 w-20 bg-yellow-500 rounded" />
       </div>
-      <p className="lg:w-1/2 w-full leading-relaxed text-gray-400 text-opacity-90">
+      <p className="lg:w-1/2 w-full leading-relaxed text-opacity-90">
         Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
         gentrify, subway tile poke farm-to-table. Franzen you probably haven't
         heard of them man bun deep jianbing selfies heirloom prism food truck
